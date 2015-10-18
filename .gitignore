@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.war
+*.ear
+
+/build
+/lib
+
+.idea
+*.iml
